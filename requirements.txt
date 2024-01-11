@@ -1,0 +1,4 @@
+yolov5
+mysql-connector-python
+Flask
+pandas
